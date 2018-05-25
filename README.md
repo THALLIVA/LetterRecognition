@@ -1,4 +1,4 @@
 # LetterRecognition
 
 
---todo install numpy,cv2
+--todo install numpy,cv2,matplot,conda
